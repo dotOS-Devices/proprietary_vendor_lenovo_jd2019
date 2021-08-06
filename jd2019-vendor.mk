@@ -85,6 +85,37 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/jd2019/proprietary/vendor/lib/libslimclient.so:$(TARGET_COPY_OUT_VENDOR)/lib/libslimclient.so \
     vendor/lenovo/jd2019/proprietary/vendor/lib/libsns_fastRPC_util.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsns_fastRPC_util.so \
     vendor/lenovo/jd2019/proprietary/vendor/lib/libxtadapter.so:$(TARGET_COPY_OUT_VENDOR)/lib/libxtadapter.so \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_adsp_loader.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_adsp_loader.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_analog_cdc.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_analog_cdc.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_apr.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_apr.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_cpe_lsm.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_cpe_lsm.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_cs35l41.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_cs35l41.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_digital_cdc.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_digital_cdc.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_hdmi.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_hdmi.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_machine_sdm710.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_machine_sdm710.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_mbhc.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_mbhc.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_msm_sdw.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_msm_sdw.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_native.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_native.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_pinctrl_lpi.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_pinctrl_lpi.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_pinctrl_wcd.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_pinctrl_wcd.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_platform.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_platform.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_q6.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_q6.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_q6_notifier.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_q6_notifier.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_q6_pdr.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_q6_pdr.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_stub.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_stub.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_swr.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_swr.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_swr_ctrl.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_swr_ctrl.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_usf.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_usf.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_wcd9335.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_wcd9335.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_wcd934x.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_wcd934x.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_wcd9xxx.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_wcd9xxx.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_wcd_core.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_wcd_core.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_wcd_cpe.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_wcd_cpe.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_wcd_spi.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_wcd_spi.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_wglink.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_wglink.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/audio_wsa881x.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_wsa881x.ko \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/modules.alias:$(TARGET_COPY_OUT_VENDOR)/lib/modules/modules.alias \
+    vendor/lenovo/jd2019/proprietary/vendor/lib/modules/modules.dep:$(TARGET_COPY_OUT_VENDOR)/lib/modules/modules.dep \
     vendor/lenovo/jd2019/proprietary/vendor/lib/sensors.ssc.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.ssc.so \
     vendor/lenovo/jd2019/proprietary/vendor/lib/vendor.qti.gnss@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.gnss@1.0.so \
     vendor/lenovo/jd2019/proprietary/vendor/lib/vendor.qti.gnss@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.gnss@1.1.so \
